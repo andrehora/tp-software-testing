@@ -15,7 +15,7 @@ O repositório deve conter um arquivo `README.md` com as seguintes seções:
 - Breve explicação sobre as tecnologias utilizadas.
 - Como executar os testes localmente.
 
-## Decrição
+## Especificação
 
 **Implementar 30 testes de unidade**. Implementar pelo menos 30 testes de unidade. Os testes devem seguir boas práticas, como testes através de API públicas, teste de comportamento, bons nomes, testes focados, testes não-complexos, etc. 
 
