@@ -21,7 +21,7 @@ O repositório deve conter um arquivo `README.md` com as seguintes seções:
 
 **Implementar 5 testes de integração ou de sistema (e2e)**. Os testes de integração ou e2e também devem seguir boas práticas.
 
-**Mensurar cobertura de teste (cobertura ≥ 80%)**. Selecione e utilize alguma ferramenta de cobertura da linguagem escolhida, por exemplo, Coverage.py para Python, Istanbul ou Jest para JavaScript, JaCoCo para Java, etc. A cobertura de testes deve ser ≥ 70%.
+**Mensurar cobertura de teste (cobertura ≥ 80%)**. Selecione e utilize alguma ferramenta de cobertura da linguagem escolhida, por exemplo, Coverage.py para Python, Istanbul ou Jest para JavaScript, JaCoCo para Java, etc. A cobertura de testes deve ser ≥ 80%.
 
 **Utilizar CI/CD com GitHub Actions**. Os testes e cobertura devem ser executados automaticamente a cada commit nos sistemas operacionais Linux, MacOS e Windows. Para isso, deve-se configurar e utilizar a ferramenta GitHub Actions. No GitHub, existem diversos exemplos sobre como utilizar o GitHub Actions para várias linguagens. Sugestão: Configure o GitHub Actions desde o início do desenvolvimento para executar os testes automaticamente desde os primeiros commits.
 
