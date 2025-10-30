@@ -7,7 +7,13 @@ Desenvolver e testar um pequeno sistema. Mensurar cobertura. Utilizar CI/CD.
 
 Crie um repositório no GitHub para armazenar a seu sistema. O sistema deve ter um nome; não utilize nomes como `tp_teste`.
 
-Desenvolva um sistema de software simples, como uma aplicação de linha de comando, um sistema web ou um aplicativo móvel. O sistema deve incluir funcionalidades mínimas que permitam a interação com o usuário. Nosso objetivo principal é evidenciar como os testes ajudam na manutenção de um sistema de software. Sistema, linguagem de programação e tecnologias são de livre escolha. O sistema deve ser armazenado em um repositório GitHub. O repositório deve conter um arquivo `README.md` com três seções: (1) os nomes dos membros do grupo, (2) explicação do sistema e (3) explicação das tecnologias utilizadas.
+Desenvolva um sistema de software simples, como uma aplicação de linha de comando, um sistema web ou um aplicativo móvel. O sistema deve incluir funcionalidades mínimas que permitam a interação com o usuário. Nosso objetivo principal é evidenciar como os testes ajudam na manutenção de um sistema de software. Sistema, linguagem de programação e tecnologias são de livre escolha.
+
+O repositório deve conter um arquivo `README.md` com as seguintes seções:
+- Nomes dos membros do grupo.
+- Breve explicação sobre os objetivos da ferramenta.
+- Breve explicação sobre as tecnologias utilizadas.
+- Como executar os testes localmente.
 
 ## Decrição
 
