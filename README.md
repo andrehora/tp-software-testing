@@ -11,7 +11,7 @@ Desenvolva um sistema de software simples, como uma aplicação de linha de coma
 
 O repositório deve conter um arquivo `README.md` com as seguintes seções:
 - Nomes dos membros do grupo.
-- Breve explicação sobre os objetivos da ferramenta.
+- Breve explicação sobre o sistema.
 - Breve explicação sobre as tecnologias utilizadas.
 - Como executar os testes localmente.
 
