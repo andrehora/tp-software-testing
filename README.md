@@ -37,5 +37,5 @@ Django Rest: https://codecov.io/github/encode/django-rest-framework
 
 Submeter via Moodle três links:
 - O link do repositório GitHub.
-- O link para o último build de sucesso do GitHub Actions, mostrando a execução dos testes (exemplo: https://github.com/Textualize/rich/actions/runs/17610757833).
-- O link do Codecov do sistema. Por exemplo: https://codecov.io/github/encode/django-rest-framework
+- O link para o último build de sucesso do GitHub Actions, mostrando a execução dos testes (exemplo de link: https://github.com/Textualize/rich/actions/runs/17610757833).
+- O link do Codecov do sistema (exemplo de link: https://codecov.io/github/encode/django-rest-framework)
