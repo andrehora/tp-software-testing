@@ -1,11 +1,12 @@
-# TP: alunos de pós-graduação e isolada
+# TP: Alunos de Pós-Graduação e Disciplina Isolada
 
 Desenvolver um projeto de pesquisa com foco em teste de software.
 A pesquisa deve explorar um problema no contexto de software conforme já discutido em sala de aula.
 
-## Entrega:
-Escrever um artigo detalhando problem abordado.
-O artigo deve conter as seguinte seções:
+## Especificação
+
+Os alunos deverão escrever um artigo científico detalhando o problema investigado, a metodologia adotada e os resultados obtidos.
+O artigo deve conter, obrigatoriamente, as seguintes seções:
 
 1. Introdução
 2. Trabalhos Relacionados
@@ -13,4 +14,8 @@ O artigo deve conter as seguinte seções:
 4. Resultados
 5. Conclusão
 
-A artigo deve ser escrito no seguinte template da SBC: https://www.overleaf.com/latex/templates/sbc-conferences-template-updated-sbc-template-dot-sty-v2017/pyhttxftxjqn
+O artigo deve conter entre 6 e 10 páginas e utilizar o template da SBC disponível em: https://www.overleaf.com/latex/templates/sbc-conferences-template-updated-sbc-template-dot-sty-v2017/pyhttxftxjqn
+
+## Submissão
+
+Submeter via Moodle o PDF do artigo.
