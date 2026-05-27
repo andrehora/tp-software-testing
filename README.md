@@ -1,7 +1,7 @@
 # TP: Teste de Software
 
 ## Objetivo
-Desenvolver e testar um pequeno sistema. Mensurar cobertura. Utilizar CI/CD.
+Desenvolver e testar um pequeno sistema. Mensurar cobertura. Utilizar CI/CD e boas práticas de versionamento.
 
 ## Sobre o Sistema
 
@@ -26,6 +26,8 @@ O repositório deve conter um arquivo `README.md` com as seguintes seções:
 **Utilizar CI/CD com GitHub Actions**. Os testes e cobertura devem ser executados automaticamente a cada commit nos sistemas operacionais Linux, MacOS e Windows. Para isso, deve-se configurar e utilizar a ferramenta [GitHub Actions](https://docs.github.com/pt/actions). No GitHub, existem [diversos exemplos](https://docs.github.com/pt/actions/use-cases-and-examples/building-and-testing) sobre como utilizar o GitHub Actions para várias linguagens. *Sugestão*: Configure o GitHub Actions desde o início do desenvolvimento para executar os testes automaticamente desde os primeiros commits.
 
 **Publicar os relatórios de cobertura no Codecov através do GitHub Actions**. O grupo deve utilizar o [Codecov GitHub Action](https://github.com/marketplace/actions/codecov) e fazer o upload do relatório de cobertura no Codecov. Na documentação, você encontra [diversos exemplos](https://docs.codecov.com/docs/supported-languages) sobre como utilizar o Codecov GitHub Action para várias linguagens de programação.
+
+**Utilizar boas práticas de versionamento**. O desenvolvimento deve ser realizado utilizando boas práticas de versionamento, com commits frequentes, pequenos e acompanhados de mensagens descritivas. Para isso, o projeto deve conter pelo menos 50 commits.
 
 ## Sobre o Codecov 
 
