@@ -1,20 +1,21 @@
 # TP: Teste de Software
 
 ## Objetivo
-Desenvolver e testar um pequeno sistema web. Mensurar cobertura. Utilizar CI/CD e boas práticas de versionamento.
+Desenvolver e testar um pequeno sistema web, medindo a cobertura de testes, adotando integração e entrega contínuas (CI/CD) e seguindo boas práticas de versionamento.
 
 ## Sobre o Sistema
 
-Crie um repositório no GitHub para armazenar a seu sistema. O sistema deve ter um nome; não utilize nomes como `tp-teste`.
+Crie um repositório no GitHub para armazenar o seu sistema. O sistema deve ter um nome próprio e significativo; evite nomes genéricos, como tp-teste.
 
-Desenvolva uma pequena aplicação web. O sistema deve incluir funcionalidades mínimas que permitam a interação com o usuário. Nosso objetivo principal é evidenciar como os testes ajudam na manutenção de um sistema de software. Sistema, linguagem de programação e tecnologias são de livre escolha.
+Desenvolva uma pequena aplicação web com funcionalidades básicas que permitam a interação com o usuário. O objetivo principal é demonstrar como os testes contribuem para a manutenção de um sistema de software. A escolha do tema do sistema, da linguagem de programação e das tecnologias é livre.
 
 O repositório deve conter um arquivo `README.md` com as seguintes seções:
-- Nomes completos dos membros do grupo.
-- Breve explicação sobre o sistema.
-- Breve explicação sobre as tecnologias utilizadas.
-- Detalhes sobre o uso de ferramentas de IA.
-- Como executar os testes localmente.
+
+- Integrantes: nomes completos dos membros do grupo.
+- Sobre o sistema: breve descrição do sistema e de suas funcionalidades.
+- Tecnologias: breve explicação sobre as tecnologias utilizadas.
+- Uso de IA: detalhes sobre quais ferramentas de IA foram utilizadas e como contribuíram para o desenvolvimento.
+- Execução dos testes: instruções para executar os testes localmente.
 
 ## Especificação
 
@@ -28,7 +29,7 @@ O repositório deve conter um arquivo `README.md` com as seguintes seções:
 
 **Publicar os relatórios de cobertura no Codecov através do GitHub Actions**. O grupo deve utilizar o [Codecov GitHub Action](https://github.com/marketplace/actions/codecov) e fazer o upload do relatório de cobertura no Codecov. Na documentação, você encontra [diversos exemplos](https://docs.codecov.com/docs/supported-languages) sobre como utilizar o Codecov GitHub Action para várias linguagens de programação.
 
-**Utilizar boas práticas de versionamento**. O desenvolvimento deve ser realizado utilizando boas práticas de versionamento, com commits frequentes, pequenos e acompanhados de mensagens descritivas. Para isso, o projeto deve conter pelo menos 50 commits.
+**Utilizar boas práticas de versionamento**. O desenvolvimento deve seguir boas práticas de versionamento, com commits pequenos, frequentes e acompanhados de mensagens descritivas. O projeto deve conter, no mínimo, 50 commits.
 
 **Colocar sistemas em produção**. A aplicação web deve ser publicada em produção por meio de uma plataforma de nuvem com plano gratuito, como Vercel, Netlify, Cloudflare Pages, GitHub Pages, Render, Fly.io, Firebase Hosting, entre outras.
 
