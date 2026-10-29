@@ -5,7 +5,7 @@ Desenvolver e testar um pequeno sistema web, medindo a cobertura de testes, adot
 
 ## Sobre o Sistema
 
-Crie um repositório no GitHub para armazenar o seu sistema. O sistema deve ter um nome próprio e significativo; evite nomes genéricos, como tp-teste.
+Crie um repositório no GitHub para armazenar o seu sistema. O sistema deve ter um nome próprio e significativo; evite nomes genéricos, como `tp-teste`.
 
 Desenvolva uma pequena aplicação web com funcionalidades básicas que permitam a interação com o usuário. O objetivo principal é demonstrar como os testes contribuem para a manutenção de um sistema de software. A escolha do tema do sistema, da linguagem de programação e das tecnologias é livre.
 
