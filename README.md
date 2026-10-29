@@ -1,25 +1,26 @@
 # TP: Teste de Software
 
 ## Objetivo
-Desenvolver e testar um pequeno sistema. Mensurar cobertura. Utilizar CI/CD e boas práticas de versionamento.
+Desenvolver e testar um pequeno sistema web. Mensurar cobertura. Utilizar CI/CD e boas práticas de versionamento.
 
 ## Sobre o Sistema
 
 Crie um repositório no GitHub para armazenar a seu sistema. O sistema deve ter um nome; não utilize nomes como `tp-teste`.
 
-Desenvolva um sistema de software, como uma aplicação de linha de comando, um sistema web ou um aplicativo móvel. O sistema deve incluir funcionalidades mínimas que permitam a interação com o usuário. Nosso objetivo principal é evidenciar como os testes ajudam na manutenção de um sistema de software. Sistema, linguagem de programação e tecnologias são de livre escolha.
+Desenvolva uma pequena aplicação web. O sistema deve incluir funcionalidades mínimas que permitam a interação com o usuário. Nosso objetivo principal é evidenciar como os testes ajudam na manutenção de um sistema de software. Sistema, linguagem de programação e tecnologias são de livre escolha.
 
 O repositório deve conter um arquivo `README.md` com as seguintes seções:
-- Nomes dos membros do grupo.
+- Nomes completos dos membros do grupo.
 - Breve explicação sobre o sistema.
 - Breve explicação sobre as tecnologias utilizadas.
+- Detalhes sobre o uso de ferramentas de IA.
 - Como executar os testes localmente.
 
 ## Especificação
 
-**Implementar 30 testes de unidade**. Implementar pelo menos 30 testes de unidade. Os testes devem seguir boas práticas, como testes através de API públicas, teste de comportamento, bons nomes, testes focados, testes não-complexos, etc. 
+**Implementar 50 testes de unidade**. Implementar pelo menos 50 testes de unidade. Os testes devem seguir boas práticas, como testes através de API públicas, teste de comportamento, bons nomes, testes focados, testes não-complexos, etc. 
 
-**Implementar 5 testes de integração ou de sistema (e2e)**. Os testes de integração ou e2e também devem seguir boas práticas.
+**Implementar 5 end-to-end (e2e)**. Os testes e2e também devem seguir boas práticas, utilizando frameworks como Playwright, Cypress ou Selenium.
 
 **Mensurar cobertura de teste (cobertura ≥ 80%)**. Selecione e utilize alguma ferramenta de cobertura da linguagem escolhida, por exemplo, Coverage.py para Python, Istanbul ou Jest para JavaScript, JaCoCo para Java, etc. A cobertura de testes deve ser ≥ 80%.
 
@@ -29,6 +30,10 @@ O repositório deve conter um arquivo `README.md` com as seguintes seções:
 
 **Utilizar boas práticas de versionamento**. O desenvolvimento deve ser realizado utilizando boas práticas de versionamento, com commits frequentes, pequenos e acompanhados de mensagens descritivas. Para isso, o projeto deve conter pelo menos 50 commits.
 
+**Colocar sistemas em produção**. A aplicação web deve ser publicada em produção por meio de uma plataforma de nuvem com plano gratuito, como Vercel, Netlify, Cloudflare Pages, GitHub Pages, Render, Fly.io, Firebase Hosting, entre outras.
+
+**Criar um vídeo curto (cerca de 3 minutos).** O vídeo deve apresentar brevemente: (1) o sistema desenvolvido, (2) as tecnologias utilizadas, (3) como as ferramentas de IA foram empregadas e (4) os testes implementados. O vídeo deve ser publicado no YouTube.
+
 ## Sobre o Codecov 
 
 Codecov é uma plataforma para publicação online de relatórios de cobertura. Você deve criar uma conta no Codecov e permitir acesso ao GitHub. Exemplos de relatórios de cobertura publicados no Codecov:
@@ -37,7 +42,10 @@ Django Rest: https://codecov.io/github/encode/django-rest-framework
 
 ## Submissão
 
-Submeter via Moodle três links:
-- O link do repositório GitHub.
-- O link para o último build de sucesso do GitHub Actions, mostrando a execução dos testes (exemplo de link: https://github.com/Textualize/rich/actions/runs/17610757833).
-- O link do Codecov do sistema (exemplo de link: https://codecov.io/github/encode/django-rest-framework)
+A entrega deve ser feita pelo Moodle, com os cinco links a seguir:
+
+- Sistema em produção: endereço público da aplicação publicada.
+- Repositório no GitHub: link do repositório com o código-fonte do projeto.
+- Build no GitHub Actions: link da execução mais recente concluída com sucesso, mostrando os testes sendo executados (exemplo: https://github.com/Textualize/rich/actions/runs/17610757833).
+- Relatório no Codecov: link da página de cobertura de testes do projeto (exemplo: https://codecov.io/github/encode/django-rest-framework).
+- Vídeo no YouTube: link do vídeo de apresentação do sistema.
