@@ -31,7 +31,7 @@ O repositório deve conter um arquivo `README.md` com as seguintes seções:
 
 **Utilizar boas práticas de versionamento**. O desenvolvimento deve seguir boas práticas de versionamento, com commits pequenos, frequentes e acompanhados de mensagens descritivas. O projeto deve conter, no mínimo, 50 commits.
 
-**Colocar o sistema em produção**. A aplicação web deve ser publicada em produção por meio de uma plataforma de nuvem com plano gratuito, como Vercel, Netlify, Cloudflare Pages, GitHub Pages, Render, Fly.io, Firebase Hosting, entre outras.
+**Colocar o sistema em produção**. A aplicação web deve ser publicada em produção por meio de uma plataforma de nuvem com plano gratuito, como Vercel, Netlify, Cloudflare Pages, Render, Fly.io, Firebase Hosting, entre outras.
 
 **Criar um vídeo curto (máximo de 5 minutos).** O vídeo deve apresentar brevemente: (1) o sistema desenvolvido, (2) as tecnologias utilizadas, (3) como as ferramentas de IA foram empregadas e (4) os testes implementados. O vídeo deve ser publicado no YouTube.
 
