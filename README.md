@@ -31,7 +31,7 @@ O repositório deve conter um arquivo `README.md` com as seguintes seções:
 
 **Utilizar boas práticas de versionamento**. O desenvolvimento deve seguir boas práticas de versionamento, com commits pequenos, frequentes e acompanhados de mensagens descritivas. O projeto deve conter, no mínimo, 50 commits.
 
-**Colocar sistemas em produção**. A aplicação web deve ser publicada em produção por meio de uma plataforma de nuvem com plano gratuito, como Vercel, Netlify, Cloudflare Pages, GitHub Pages, Render, Fly.io, Firebase Hosting, entre outras.
+**Colocar o sistema em produção**. A aplicação web deve ser publicada em produção por meio de uma plataforma de nuvem com plano gratuito, como Vercel, Netlify, Cloudflare Pages, GitHub Pages, Render, Fly.io, Firebase Hosting, entre outras.
 
 **Criar um vídeo curto (cerca de 3 minutos).** O vídeo deve apresentar brevemente: (1) o sistema desenvolvido, (2) as tecnologias utilizadas, (3) como as ferramentas de IA foram empregadas e (4) os testes implementados. O vídeo deve ser publicado no YouTube.
 
@@ -45,7 +45,7 @@ Django Rest: https://codecov.io/github/encode/django-rest-framework
 
 A entrega deve ser feita pelo Moodle, com os cinco links a seguir:
 
-- Sistema em produção: endereço público da aplicação publicada.
+- Sistema em produção: endereço público da aplicação publicada, em funcionamento.
 - Repositório no GitHub: link do repositório com o código-fonte do projeto.
 - Build no GitHub Actions: link da execução mais recente concluída com sucesso, mostrando os testes sendo executados (exemplo: https://github.com/Textualize/rich/actions/runs/17610757833).
 - Relatório no Codecov: link da página de cobertura de testes do projeto (exemplo: https://codecov.io/github/encode/django-rest-framework).
